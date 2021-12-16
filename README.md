@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carlos Fernando Castaneda Olano,a Bioengineering graduate student @mobilegengroup
+- 👋 Hi, I’m Carlos Fernando Castaneda Olano, a Bioengineering graduate student @mobilegengroup
 - 👀 I’m interested in Cancer research
 - 🌱 I’m currently learning Ensembl Project REST API
 - 💞️ I’m looking to collaborate on ...good question
